@@ -1,1 +1,1 @@
-# docker-gearmand
+# Docker image for Gearman Daemon
